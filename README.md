@@ -4,5 +4,5 @@ I am an aspiring software developer with a strong interest in a variety of field
 
 - 👋 Student at the Faculty of Electrical engineering, University of Belgrade
 - 🔭 Interested in all things ML, Web dev and Game development related
-- 🌱 Languages: C++, Java, Python, ASM, HTML, CSS, JS, SQL,
+- 🌱 Languages: C++, Java, Python, ASM, HTML, CSS, JS, SQL
 - 🌱 Technologies: MEAN stack, Solar2D
