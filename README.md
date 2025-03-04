@@ -7,7 +7,7 @@ I am an aspiring software developer with a strong interest in a variety of field
 - 🌱 Languages: C++, Java, Python, ASM, HTML, CSS, JS, SQL
 - 🌱 Technologies: MEAN stack, Solar2D
 - Projects I've Done:
-  - [WebDev store project](https://github.com/codecrafter-rgb/webdev-proj) 🌐
-  - [Toadally game dev project](https://github.com/codecrafter-rgb/Toadally) 🎮
 
-![Webdev project](https://github.com/codecrafter-rgb/webdev-proj/raw/main/photos/Capture.PNG) ![Toadally game](https://github.com/codecrafter-rgb/Toadally/raw/main/photos/Capture_1.PNG)
+WebDev store project 🌐   | Toadally game dev project 🎮
+:-------------------------:|:-------------------------:
+![Webdev project](https://github.com/codecrafter-rgb/webdev-proj/raw/main/photos/Capture.PNG) |   ![Toadally game](https://github.com/codecrafter-rgb/Toadally/raw/main/photos/Capture_1.PNG)
