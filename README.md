@@ -10,4 +10,4 @@ I am an aspiring software developer with a strong interest in a variety of field
 
 WebDev store project 🌐   | Toadally game dev project 🎮
 :-------------------------:|:-------------------------:
-![Webdev project](https://github.com/codecrafter-rgb/webdev-proj/raw/main/photos/Capture.PNG) |   ![Toadally game](https://github.com/codecrafter-rgb/Toadally/raw/main/photos/Capture_1.PNG)
+![Webdev project](https://github.com/codecrafter-rgb/webdev-proj/raw/master/photos/Capture.jpg) |   ![Toadally game](https://github.com/codecrafter-rgb/Toadally/raw/main/photos/Capture_1.PNG)
